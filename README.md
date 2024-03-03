@@ -10,7 +10,7 @@ Open the index.html file in the browser or run with live server.
 
 Once the DApp is open, you can use the provided interface to read or write names to the blockchain.
 
-# Quick Start:
+## Quick Start:
 
 1. Reading a Name:
 Explore existing names stored on the blockchain.
